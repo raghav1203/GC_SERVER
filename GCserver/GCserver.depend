@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1353751060 source:c:\users\admin\documents\github\gc_server\gcserver\main.cpp
+	<iostream>
+
+1420202197 source:c:\users\admin\documents\github\gc_server\gcserver\src\iohandleradapter.cpp
+	"IoHandlerAdapter.h"
+
+1420203884 c:\users\admin\documents\github\gc_server\gcserver\include\iohandleradapter.h
+
+1420203083 source:c:\users\admin\documents\github\gc_server\gcserver\src\util.cpp
+	"Util.h"
+
+1420203068 c:\users\admin\documents\github\gc_server\gcserver\include\util.h
+	<string>
+	<iostream>
+
+1420204106 source:c:\users\admin\documents\github\gc_server\gcserver\src\tcpserver.cpp
+	"TCPServer.h"
+
+1420206432 c:\users\admin\documents\github\gc_server\gcserver\include\tcpserver.h
+	"NonBlockingServer.h"
+
+1420203914 c:\users\admin\documents\github\gc_server\gcserver\include\nonblockingserver.h
+	"IoHandlerAdapter.h"
+
+1420206388 source:c:\users\admin\documents\github\gc_server\gcserver\src\runtimeplatform.cpp
+	"RuntimePlatform.h"
+
+1420206345 c:\users\admin\documents\github\gc_server\gcserver\include\runtimeplatform.h
+
+1420206421 source:c:\users\admin\documents\github\gc_server\gcserver\src\serversocket.cpp
+	"ServerSocket.h"
+
+1420205848 c:\users\admin\documents\github\gc_server\gcserver\include\serversocket.h
+
